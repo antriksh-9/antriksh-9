@@ -1,3 +1,4 @@
+About Me
 - 👋 Hi, I’m Antriksh Dangi
 - 👀 I'm a passionate Web Developer and Competitive Programmer from India.
 - 🌱 I’m currently working on engancing my technical skills, financial knowledge and learning about new tech stacks.
