@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antriksh-9&label=Profile%20views&color=0e75b6&style=flat" alt="antriksh-9" /> </p>
 
-- 🔭 I’m currently working on **Quiz App, Automation testing**
 
-- 🌱 I’m currently learning **Advance JavaScript, Automation testing**
+- 🌱 I’m currently learning **Advance JavaScript, MERN Stack**
 
 - 💬 Ask me about **DSA, C++, JS, CSS, Blender**
 
