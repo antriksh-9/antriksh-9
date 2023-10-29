@@ -1,4 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/bf7d96178575524c8721d0c6e25dc5698a526a2e2d7968e7cbd2c2e2358a9bf2/68747470733a2f2f7777772e6c6561726e75706f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f4032782d426c6f672d4d756c74696d6f64616c2d4c6561726e696e672d416e696d6174696f6e2e676966)
+
 <h1 align="center">Hi 👋, I'm Antriksh Dangi</h1>
 <h3 align="center">I'm a passionate Web Developer and Competitive Programmer from India.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antriksh-9" alt="antriksh-9" /></a> </p>
@@ -32,4 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antriksh-9&" alt="antriksh-9" /></p>
 <h3 align="left">Badges:</h3>
-[![An image of @antriksh9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/antriksh9)] (https://holopin.io/@antriksh9)
+
+[![An image of @antriksh9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/antriksh9)](https://holopin.io/@antriksh9)
