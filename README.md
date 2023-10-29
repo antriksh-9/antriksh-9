@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antriksh-9&" alt="antriksh-9" /></p>
 <h3 align="left">Badges:</h3>
-[![An image of @antriksh9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/antriksh9)](https://holopin.io/@antriksh9)
+[![An image of @antriksh9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/antriksh9)] (https://holopin.io/@antriksh9)
