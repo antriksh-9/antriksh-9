@@ -32,6 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antriksh-9&show_icons=true&locale=en" alt="antriksh-9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antriksh-9&" alt="antriksh-9" /></p>
-<h3 align="left">HacktoberFest Badges:</h3>
+<h3 align="left">Hacktoberfest Badges:</h3>
 
 [![An image of @antriksh9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/antriksh9)](https://holopin.io/@antriksh9)
