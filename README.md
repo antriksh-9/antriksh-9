@@ -48,6 +48,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,bash,js,html,css,react,nextjs,nodejs,express,ruby,rails,md,postgres,mongodb,git,vscode,docker,postman,github"/>
 </p>
+<br/>
 
 <p align="center">
   <a href="https://github.com/antriksh-9">
