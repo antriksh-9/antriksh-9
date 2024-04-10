@@ -9,14 +9,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Antriksh+Dangi!;" />
 </h1>
 
-<h2 align="center"> 
+<h1 align="center"> 
   <samp>
     「 I am a Prefinal year Student at IIT Dhanbad,India 」
-    <br/>
   </samp>
-</h2>
+</h1>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antriksh-9" alt="antriksh-9" /></a> </p>
+
 
 
 <!-- About Section -->
