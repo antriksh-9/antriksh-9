@@ -26,6 +26,10 @@
 
 - 🌱 I’m currently learning **Runy on Rails, MERN Stack**
 
+- 📌 Full Stack developer and Open-source contributor.
+
+- 🧑‍💻 Working on enhancing my technical skills and financial knowledge.
+
 - 💬 Ask me about **DSA, C++, JS, CSS, Blender**
 
 - 📫 How to reach me **antriksh.scin9@gmail.com**
