@@ -45,7 +45,7 @@
 <!--Languages and Tools Section--> 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,bash,js,html,css,react,nextjs,nodejs,express,md,postgres,mongodb,git,vscode,docker,postman,github"/>
+<img src="https://skillicons.dev/icons?i=cpp,bash,js,html,css,react,nextjs,nodejs,express,ruby,rails,md,postgres,mongodb,git,vscode,docker,postman,github"/>
 </p>
 
 <p align="center">
