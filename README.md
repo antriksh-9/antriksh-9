@@ -68,8 +68,7 @@
 </a>
 
 <br/>
-<br/>
 
-<h3 align="left">Hacktoberfest Badges:</h3>
+<h2 align="left">Hacktoberfest Badges:</h2>
 
 [![An image of @antriksh9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/antriksh9)](https://holopin.io/@antriksh9)
