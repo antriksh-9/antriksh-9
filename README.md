@@ -30,8 +30,6 @@
 
 - 🧑‍💻 Working on enhancing my technical skills and financial knowledge.
 
-- 💬 Ask me about **DSA, C++, JS, CSS, Blender**
-
 - 📫 How to reach me **antriksh.scin9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
