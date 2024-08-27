@@ -11,7 +11,7 @@
 
 <h1 align="center"> 
   <samp>
-    「 I am a Prefinal year Student at IIT Dhanbad, India 」
+    「 I am a final year Student at IIT Dhanbad, India 」
   </samp>
 </h1>
 <br/>
@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZrcWxnc2I5emRyZ2ttYXllNDh3bnE4emNzMmkyZm16amtnNjl4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I’m currently learning **Ruby on Rails, MERN Stack**
+
 
 - 📌 Full Stack developer and Open-source contributor.
 
